@@ -11,6 +11,8 @@ Website: N/A
 ## Contact
 Company Email: reaperone_contact@protonmail.com
 
+Support Email: reaperone_support@protonmail.com
+
 Owner Email: mirobyalex509@protonmail.com
 
 ## GitHub Discussions Info
